@@ -1,0 +1,11 @@
+Dia 14/02
+- No final da matéria é ser capaz de administrar, manter e configurar os dados de um SGBD corporativo.
+
+Sites para pesquisar documentação:
+- oracle-base
+- dbi-services
+- pythian
+
+Matéria não tem prova
+- Labs -> Método de avaliação
+- API

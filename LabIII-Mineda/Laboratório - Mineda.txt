@@ -1,0 +1,9 @@
+Laboratório -> Mineda
+
+- SpringBoot
+- JPA
+- REST
+- Vue
+- Spring Security
+
+- Dev Container: Pesquisar sobre o plugin no VSCode
