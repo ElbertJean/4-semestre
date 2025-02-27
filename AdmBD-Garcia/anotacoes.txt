@@ -9,3 +9,54 @@ Sites para pesquisar documentação:
 Matéria não tem prova
 - Labs -> Método de avaliação
 - API
+
+
+Dia 19/02
+- SGBD
+	- prega por segurança e ambiente seguro
+	- senha criptografada 
+	- acesso por cofre de chaves
+
+- SGBD/Banco de dados não pode ficar exposto, acessível na internet !
+
+PRIVILÉGIOS E CONTROLE DE ACESSO
+	- Objetivo é administrar a atribuição de privilégios aos usuários de BD.
+	- Definir as habilidades que ele pode prover.
+		- Se ele é admin, se pode criar outros usuários, somente leitura etc ...
+	ROLE - Grupo de privilégios
+
+usuário <-> [ username/senha + privilégios + cotas físicas ] <-> DB
+			DBA(Data Base Administrator)
+
+username/senha + privilégios (NO MÍNIMO)
+
+
+DICIONÁRIO DE DADOS PARA USUÁRIOS.
+- META DATA 
+	- Informação da informação
+	- todo tipo de atributo ou informação a respeito de determinado objeto. 
+	- descrição sobre o objeto armazenado em algum lugar
+- exemplo de operações:
+	- atribuir/remover acessos
+	- visualizar/remover sessões
+	- monitorar a ocupação e o uso do SGBD por usuário.
+
+PONTOS DE CONEXÕES EM UM SGBD
+- USUÁRIOS   -------> ORM -------> BD
+
+
+NÍVEL DE PRIVILEGIOS
+- possui dois níveis
+	-sistema: de executar uma ação num TIPO particular de objeto.
+	-objetos: de executar uma ação em UM objeto específico. 
+
+	
+- exemplos:
+	- permite conexão com banco
+	- permite ciração, modificação e remoção de tabelas
+	- permite seleção de dados a partir de qualquer tabela autorizada.
+
+
+LINGUAGEL DLC
+	- Grant 
+	- Revoke
