@@ -1,4 +1,4 @@
-package pattern;
+package exemplo1;
 public class Pessoa {
     private Locomocao locomocao;
 

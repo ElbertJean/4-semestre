@@ -1,4 +1,4 @@
-package pattern;
+package exemplo1;
 
 public class Onibus implements Locomocao {
     @Override

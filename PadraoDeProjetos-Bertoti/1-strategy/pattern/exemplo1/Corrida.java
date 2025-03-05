@@ -1,4 +1,4 @@
-package pattern;
+package exemplo1;
 
 public class Corrida implements Locomocao{
     @Override
