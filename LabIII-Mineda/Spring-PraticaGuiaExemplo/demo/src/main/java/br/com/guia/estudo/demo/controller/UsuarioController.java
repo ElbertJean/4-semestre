@@ -27,9 +27,14 @@ public class UsuarioController {
         return usuarioService.getAllUsuarios();
     }
 
-    @GetMapping("/{id}")
+    @GetMapping(value = "/{id}")
     public Usuario getUsuario(@PathVariable Long id) {
         return usuarioService.getUsuario(id);
+    }
+
+    @GetMapping(value = "/nome/{nome}")
+    public Usuario getUsuarioByNome(@PathVariable String nome) {
+        return usuarioService.getUsuarioByNome(nome);
     }
 
     @PostMapping

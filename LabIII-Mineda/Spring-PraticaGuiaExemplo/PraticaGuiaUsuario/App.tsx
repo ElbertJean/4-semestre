@@ -68,6 +68,7 @@ function App(): JSX.Element {
           value={nome}
           keyboardType="default"
           onChangeText={setNome}
+          placeholderTextColor={'#191919'}
         />
         <TextInput
           style={style.input}
@@ -75,6 +76,7 @@ function App(): JSX.Element {
           value={senha}
           keyboardType="visible-password"
           onChangeText={setSenha}
+          placeholderTextColor={'#191919'}
         />
         <TouchableOpacity style={style.button} onPress={CadastrarUsuario}>
           <Text style={style.textButton}>Cadastrar novo usuário</Text>
