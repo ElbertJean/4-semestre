@@ -18,27 +18,46 @@ Hoje atuo como desenvolvedor front-end utilizando React e TypeScript, e no momen
 
 ## Contatos
 * [GIT](https://github.com/elbertjean)
-* [LinkedIn](https://www.linkedin.com)
+* [LinkedIn](https://www.linkedin.com/in/elbertjean/)
 
 ## Meus Principais Conhecimentos
 Dentre meus principais conhecimentos, destaco uma base sólida em HTML, CSS, JavaScript, TypeScript e Java.
 Tenho experiência com os seguintes frameworks e ferramentas:
-- Front-end: React, React Native, VueJS, WordPress
+- Front-end:
+    - HTML / CSS,
+    - JavaScript,
+    - TypeScript,
+    - React, 
+    - React Native, 
+    - VueJS, 
+    - WordPress
+- Bibliotecas:
+    - Leaflet
+    - Recharts
+    - Bootstrap
+    - MUI
 - Back-end: 
-    - Java: Spring Boot,
-    - JavaScript (Node.js): Express (criação de APIs REST), Axios (consumo de serviços externos) 
-- Banco de Dados (SQL): MySQL, PostgreSQL
-- Ferramentas: Postman, DBeaver, Swagger
-- Testes: Jest
+    - Java: 
+        - Spring Boot
+    - JavaScript (Node.js): 
+        - Express (criação de APIs REST),
+        - Axios (consumo de serviços externos) 
+- Banco de Dados (SQL): 
+    - MySQL, 
+    - PostgreSQL
+- Ferramentas:
+    - Postman, 
+    - DBeaver, 
+    - Swagger,
+    - Docker,
 
-Além disso, já trabalhei com diversas bibliotecas no ecossistema React, com destaque para:
-- Leaflet (manipulação de mapas interativos)
-- Recharts (visualização de dados e gráficos)
+- Testes: 
+    - Jest
 
 
 ## Meus Projetos
 
-### Em 2024-2
+### Em 2024-2 (3º API)
 Com a parceria da empresa GSW, desenvolvemos uma ferramenta para captura e armazenamento de notícias estratégicas e dados relevantes associados. Criamos um mecanismo para mapeamento de portais de notícias, com captura rotineira para geração de histórico.
 
 
